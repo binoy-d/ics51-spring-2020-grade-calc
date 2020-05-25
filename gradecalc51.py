@@ -2,7 +2,7 @@ quizzes = []
 labs = []
 questionares = []
 fin = 0.0
-
+#enter your scores in this method as arrays of tuples(score, total)
 def useHardCodedInput():
     global quizzes
     global labs
