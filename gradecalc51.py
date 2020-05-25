@@ -1,9 +1,11 @@
+#sorry for globals, thornton
 quizzes = []
 labs = []
 questionares = []
 fin = 0.0
 #enter your scores in this method as arrays of tuples(score, total)
 def useHardCodedInput():
+    #sorry for globals, thornton
     global quizzes
     global labs
     global questionares
@@ -14,6 +16,7 @@ def useHardCodedInput():
     fin = 0.0
 #gets input normally
 def getInput():
+    #sorry for globals, thornton
     global quizzes
     global labs
     global questionares
@@ -58,6 +61,7 @@ def getInput():
 
 
 def dropLowest(lst):
+    #i do list comprehensions for you, pattis :)
     return sorted(lst, key = lambda x: x[0]/x[1])[1:]
 
 
