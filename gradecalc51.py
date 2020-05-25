@@ -12,7 +12,7 @@ def useHardCodedInput():
     labs = [(2,2), (6,6), (6, 6), (10,10)]
     questionares = [(8.0, 10.0), (7.5, 10.0), (9.0, 10.0), (8.0, 10.0)]
     fin = 0.0
-
+#gets input normally
 def getInput():
     global quizzes
     global labs
