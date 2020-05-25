@@ -8,7 +8,7 @@ def useHardCodedInput():
     global labs
     global questionares
     global fin
-    quizzes = [(6.67, 7), (1,5), (2, 4), (2.8, 4), (3, 4), (2, 4), (3, 3), (4,5), (5.5, 6), (4, 6), (5, 5)]
+    quizzes = [(6.67, 7), (1,5), (2, 4), (2.8, 4), (3, 4), (2, 4), (3, 3), (4,5), (5.5, 6), (4, 6), (5, 5)]#my grades are trash i know
     labs = [(2,2), (6,6), (6, 6), (10,10)]
     questionares = [(8.0, 10.0), (7.5, 10.0), (9.0, 10.0), (8.0, 10.0)]
     fin = 0.0
