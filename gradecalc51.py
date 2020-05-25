@@ -1,3 +1,13 @@
+# ICS51 grade calculator spring 2020
+# calculates grades with lowest quiz and questionare dropped
+# to avoid typing in grades repeatedly, you can just store them in the useHardCodedInput() method
+# i apologize for the trashy code
+# Prof Bozorgzadeh if you see this, please bless us with a thick curve :)
+
+# author: Daniel Binoy(https://www.binoy.co)
+
+
+
 #sorry for globals, thornton
 quizzes = []
 labs = []
